@@ -149,7 +149,7 @@ input:checked ~ img {
         margin: 0 auto 3.5em;
     }
 
-    .faq-card > img {
+    .img-container img {
         content: url(images/illustration-woman-online-mobile-shadow.svg);
         position: absolute;
         transform: translate(-50%, -9em);
